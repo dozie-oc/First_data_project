@@ -1,3 +1,6 @@
+/*This shows the skills that bring in the most money
+and also the average yearly salary for those skills*/
+
 SELECT
     skills,
     ROUND(AVG(salary_year_avg), 2) AS avg_salary

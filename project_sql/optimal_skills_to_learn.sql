@@ -1,3 +1,9 @@
+/*This table shows the average salary for each skill
+as well as the amount of times the skill comes up in
+job postings. It tells one what the most in demand
+skill is, as well as the average salary for each skill*/
+
+
 SELECT
     s.skill_id,
     skills,

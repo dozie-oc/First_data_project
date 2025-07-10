@@ -1,3 +1,6 @@
+/*This is to assess the 5 most demanded skills based on the jobs provided 
+in this dataset*/
+
 WITH top_skills AS (
     SELECT
         s.skill_id,
