@@ -51,7 +51,7 @@ Completing this project has:
 
 ## 🙌 Acknowledgments
 
-[Luke Barousse – SQL for Data Analysis](https://www.youtube.com/watch?v=9Pzj7Aj25lw)
+[Luke Barousse – SQL for Data Analysis](https://www.youtube.com/watch?v=7mz73uXD9DA)
 
 ---
 
