@@ -1,6 +1,6 @@
 # 📊 SQL for Data Analytics – Final Project
 
-This project was completed while taking [Luke Barousse’s SQL for Data Analysis Course](https://www.youtube.com/watch?v=9Pzj7Aj25lw).  
+This project was completed while taking [Luke Barousse’s SQL for Data Analysis Course]([https://www.youtube.com/watch?v=9Pzj7Aj25lw](https://www.youtube.com/watch?v=7mz73uXD9DA&t=6458s)).  
 It applies advanced SQL techniques to explore a job postings dataset and uncover insights about Data Scientist roles.
 
 ---
