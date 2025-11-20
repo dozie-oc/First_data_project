@@ -5,6 +5,20 @@ It applies advanced SQL techniques to explore a job postings dataset and uncover
 
 ---
 
+**Interactive dashboard now live!**  
+👉 [**Explore the full Power BI dashboard here**](https://app.powerbi.com/groups/me/reports/d22849d0-468c-4f38-bf48-8492115509c3?ctid=d59ded02-7bf2-48c9-8627-3d11bde417ab&pbi_source=linkShare)
+
+This project analyzes Data Science Job posting data to find the top paying and most in-demand skills using SQL.
+
+(If you just want to see the results quickly, open the dashboard above — you can filter by job title, location, skills, etc.)
+
+### What I did
+- Cleaned and modeled ~20,000 real 2024 Data Scientist job postings in PostgreSQL
+- Wrote advanced SQL queries (CTEs, window functions, joins)
+- Built an interactive Power BI dashboard on top of the results
+
+Feel free to check out the SQL files or play with the live version!
+
 ## 🎯 Objectives
 
 - Analyze job postings to:
