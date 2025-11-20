@@ -7,7 +7,7 @@ It applies advanced SQL techniques to explore a job postings dataset and uncover
 
 ![Dashboard Preview](images/BI_dashboard.png)
 
-** If you want to check out the Interactive dashboard!**  
+**If you want to check out the Interactive dashboard!**  
 👉 [**Explore the full Power BI dashboard here**](https://app.powerbi.com/groups/me/reports/d22849d0-468c-4f38-bf48-8492115509c3?ctid=d59ded02-7bf2-48c9-8627-3d11bde417ab&pbi_source=linkShare)
 
 ### What I did
