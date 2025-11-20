@@ -12,7 +12,11 @@ This project analyzes Data Science Job posting data to find the top paying and m
 
 (If you just want to see the results quickly, open the dashboard above — you can filter by job title, location, skills, etc.)
 
+![Dashboard Preview](images/BI_dashboard.png)
+Link to the image if the powerBI dashboard gives issues
+
 ### What I did
+
 - Cleaned and modeled ~20,000 real 2024 Data Scientist job postings in PostgreSQL
 - Wrote advanced SQL queries (CTEs, window functions, joins)
 - Built an interactive Power BI dashboard on top of the results
